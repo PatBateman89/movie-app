@@ -1,3 +1,10 @@
+.titleBar {
+  background-color: #fff;
+  display: block;
+  color: #000;
+  padding-left: 16;
+}
+
 .App {
   text-align: center;
 }
